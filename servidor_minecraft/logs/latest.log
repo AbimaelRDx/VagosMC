@@ -307,3 +307,34 @@
 [05Jan2025 22:10:14.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> :(
 [05Jan2025 22:10:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> q nuv
 [05Jan2025 22:10:24.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ..
+[05Jan2025 22:10:59.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Gave 2 [Diamond] to AbimaelRDx]
+[05Jan2025 22:11:04.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> toma ron
+[05Jan2025 22:11:09.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ah?
+[05Jan2025 22:11:12.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> espada
+[05Jan2025 22:11:15.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> de diamant
+[05Jan2025 22:11:25.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> yo no ando en su base
+[05Jan2025 22:11:26.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> xd
+[05Jan2025 22:11:33.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> me vale vr
+[05Jan2025 22:11:40.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Teleported Ronsita_UxU to AbimaelRDx]
+[05Jan2025 22:11:42.391] [Server thread/INFO] [net.minecraft.server.network.ServerConfigurationPacketListenerImpl/]: com.mojang.authlib.GameProfile@10e4659[id=ac64a671-deb3-3eaa-9520-59eb74a9992a,name=GAMERKIANDER,properties={}] lost connection: Timed out
+[05Jan2025 22:11:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sonielcraft12> ZZZZZZZ
+[05Jan2025 22:11:48.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> thx
+[05Jan2025 22:12:23.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Applied effect Night Vision to sonielcraft12]
+[05Jan2025 22:13:05.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx was slain by sonielcraft12
+[05Jan2025 22:13:08.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> ...
+[05Jan2025 22:13:09.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> uf
+[05Jan2025 22:13:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> no puse pared
+[05Jan2025 22:14:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx has made the advancement [We Need to Go Deeper]
+[05Jan2025 22:15:04.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> uf
+[05Jan2025 22:15:05.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> chat
+[05Jan2025 22:15:10.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> bateria baja
+[05Jan2025 22:15:14.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> uy
+[05Jan2025 22:15:17.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> adio
+[05Jan2025 22:15:27.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> bye :c
+[05Jan2025 22:15:43.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AbimaelRDx lost connection: Timed out
+[05Jan2025 22:15:43.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AbimaelRDx left the game
+[05Jan2025 22:15:43.248] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AbimaelRDx
+[05Jan2025 22:20:43.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GAMERKIANDER[/[::1]:38796] logged in with entity id 23760 at (78.4250811781897, 54.0, -312.5821958750504)
+[05Jan2025 22:20:43.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAMERKIANDER joined the game
+[05Jan2025 22:20:45.380] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GAMERKIANDER (18)
+[05Jan2025 22:20:45.381] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GAMERKIANDER
