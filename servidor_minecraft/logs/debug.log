@@ -1556,3 +1556,128 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [05Jan2025 21:30:22.968] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 3 from client
 [05Jan2025 21:30:23.768] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 4 from client
 [05Jan2025 21:30:25.822] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 5 from client
+[05Jan2025 21:30:38.240] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 6 from client
+[05Jan2025 21:30:38.943] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 7 from client
+[05Jan2025 21:30:39.212] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 8 from client
+[05Jan2025 21:30:39.498] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 9 from client
+[05Jan2025 21:30:39.763] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 10 from client
+[05Jan2025 21:30:40.038] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 11 from client
+[05Jan2025 21:30:42.383] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 12 from client
+[05Jan2025 21:30:42.649] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 13 from client
+[05Jan2025 21:30:42.946] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 14 from client
+[05Jan2025 21:30:43.217] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 15 from client
+[05Jan2025 21:30:43.495] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 16 from client
+[05Jan2025 21:30:43.772] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 17 from client
+[05Jan2025 21:30:44.049] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 18 from client
+[05Jan2025 21:30:45.553] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.ForgePacketHandler/FORGE_PACKET_HANDLER]: Received acknowledgement 19 from client
+[05Jan2025 21:30:47.631] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GAMERKIANDER[/[::1]:33078] logged in with entity id 6059 at (-32.063518067264056, 103.0, -23.567544849796242)
+[05Jan2025 21:30:47.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAMERKIANDER joined the game
+[05Jan2025 21:30:47.639] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of GAMERKIANDER: {disabled=false, disconnected=true, uuid=ac64a671-deb3-3eaa-9520-59eb74a9992a, name=GAMERKIANDER, group=null}
+[05Jan2025 21:30:51.905] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GAMERKIANDER (18)
+[05Jan2025 21:30:51.906] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to GAMERKIANDER
+[05Jan2025 21:30:51.906] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with GAMERKIANDER
+[05Jan2025 21:30:51.906] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with GAMERKIANDER
+[05Jan2025 21:30:51.906] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GAMERKIANDER
+[05Jan2025 21:31:03.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 21:31:03.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 21:33:01.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> klk
+[05Jan2025 21:33:10.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> klk
+[05Jan2025 21:34:51.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> a
+[05Jan2025 21:35:19.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Spectator Mode]
+[05Jan2025 21:35:26.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Set own game mode to Survival Mode]
+[05Jan2025 21:36:03.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 21:36:03.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 21:37:44.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> los amo
+[05Jan2025 21:37:45.646] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/1083, l='ServerLevel[world]', x=183.30, y=63.00, z=142.70] died, message: 'Weaponsmith was slain by Drowned'
+[05Jan2025 21:38:02.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> ?
+[05Jan2025 21:38:20.931] [Worker-Main-3/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jan2025 21:38:22.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ronsita_UxU has made the advancement [We Need to Go Deeper]
+[05Jan2025 21:38:24.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3319ms or 66 ticks behind
+[05Jan2025 21:38:29.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> ron
+[05Jan2025 21:38:36.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ?
+[05Jan2025 21:38:39.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> tenias q poner el portal en la bse
+[05Jan2025 21:38:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ah
+[05Jan2025 21:38:47.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> es que..
+[05Jan2025 21:38:53.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ya tenia base yo.
+[05Jan2025 21:38:53.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> ?
+[05Jan2025 21:38:54.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> xd
+[05Jan2025 21:39:02.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> loco que mrd
+[05Jan2025 21:39:07.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> porque la lava la veo rosa
+[05Jan2025 21:39:19.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> por mujer
+[05Jan2025 21:39:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ..
+[05Jan2025 21:39:26.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> xd
+[05Jan2025 21:39:45.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAMERKIANDER has made the advancement [Not Today, Thank You]
+[05Jan2025 21:39:48.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAMERKIANDER was shot by Skeleton
+[05Jan2025 21:39:52.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> XDXD
+[05Jan2025 21:39:55.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> XDDDD
+[05Jan2025 21:40:00.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> tp
+[05Jan2025 21:40:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Teleported GAMERKIANDER to AbimaelRDx]
+[05Jan2025 21:40:12.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> klk my boy
+[05Jan2025 21:40:14.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> me voy a equiparprimero
+[05Jan2025 21:40:16.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> xd
+[05Jan2025 21:40:24.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> este xray
+[05Jan2025 21:40:33.714] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of GAMERKIANDER: {disabled=false, disconnected=true, uuid=ac64a671-deb3-3eaa-9520-59eb74a9992a, name=GAMERKIANDER, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:41:01.557] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of GAMERKIANDER: {disabled=true, disconnected=true, uuid=ac64a671-deb3-3eaa-9520-59eb74a9992a, name=GAMERKIANDER, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:41:03.956] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of GAMERKIANDER: {disabled=false, disconnected=true, uuid=ac64a671-deb3-3eaa-9520-59eb74a9992a, name=GAMERKIANDER, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:41:04.458] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of GAMERKIANDER: {disabled=true, disconnected=true, uuid=ac64a671-deb3-3eaa-9520-59eb74a9992a, name=GAMERKIANDER, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:41:04.711] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of GAMERKIANDER: {disabled=false, disconnected=true, uuid=ac64a671-deb3-3eaa-9520-59eb74a9992a, name=GAMERKIANDER, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:41:06.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 21:41:06.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 21:41:20.661] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Ronsita_UxU: {disabled=false, disconnected=true, uuid=c7558948-ea69-3d8c-b711-6d3ac16e1a94, name=Ronsita_UxU, group=null}
+[05Jan2025 21:42:18.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> que e
+[05Jan2025 21:42:19.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> se me escucha
+[05Jan2025 21:42:23.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> no
+[05Jan2025 21:42:27.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> el vc no funciona
+[05Jan2025 21:42:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> no joda
+[05Jan2025 21:42:38.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> y porque lo colocaron?
+[05Jan2025 21:42:38.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> tambien reaccione asi
+[05Jan2025 21:42:40.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> XD
+[05Jan2025 21:42:43.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> xd
+[05Jan2025 21:42:43.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> no sabiamo
+[05Jan2025 21:42:47.672] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of AbimaelRDx: {disabled=false, disconnected=true, uuid=137d8c25-e695-3376-8e41-ca6b2209634b, name=AbimaelRDx, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:42:59.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> pero lo configuraron no?
+[05Jan2025 21:43:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <GAMERKIANDER> afk
+[05Jan2025 21:43:11.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> mas tarde lo harmeos eso
+[05Jan2025 21:43:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> haremos"!
+[05Jan2025 21:43:33.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GAMERKIANDER lost connection: Timed out
+[05Jan2025 21:43:33.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GAMERKIANDER left the game
+[05Jan2025 21:43:33.960] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of GAMERKIANDER
+[05Jan2025 21:43:33.960] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GAMERKIANDER
+[05Jan2025 21:43:36.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sonielcraft12 hit the ground too hard
+[05Jan2025 21:43:42.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> uf
+[05Jan2025 21:43:47.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> seco el vro
+[05Jan2025 21:43:56.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> abi deonde estas?
+[05Jan2025 21:43:59.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> en mi base
+[05Jan2025 21:44:01.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> con soniela
+[05Jan2025 21:44:02.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> digo
+[05Jan2025 21:44:03.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> soniel
+[05Jan2025 21:44:20.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> a vale voy para alla
+[05Jan2025 21:44:20.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sonielcraft12> pero
+[05Jan2025 21:44:31.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> quieres coords=?
+[05Jan2025 21:44:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> nos estamos por mudar igual
+[05Jan2025 21:44:42.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> te lo aviso
+[05Jan2025 21:44:47.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ahi no mas
+[05Jan2025 21:44:50.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> quieres tp?
+[05Jan2025 21:44:54.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> bueno mejor xd
+[05Jan2025 21:44:56.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> si
+[05Jan2025 21:44:58.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> tp pls
+[05Jan2025 21:45:07.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AbimaelRDx: Teleported Ronsita_UxU to AbimaelRDx]
+[05Jan2025 21:45:52.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> que hacia el golem alla
+[05Jan2025 21:45:53.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> XD
+[05Jan2025 21:46:06.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jan2025 21:46:06.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jan2025 21:46:23.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ah?
+[05Jan2025 21:46:30.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> mira
+[05Jan2025 21:46:31.508] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Ronsita_UxU: {disabled=true, disconnected=true, uuid=c7558948-ea69-3d8c-b711-6d3ac16e1a94, name=Ronsita_UxU, group=null}
+[05Jan2025 21:46:32.112] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Ronsita_UxU: {disabled=false, disconnected=true, uuid=c7558948-ea69-3d8c-b711-6d3ac16e1a94, name=Ronsita_UxU, group=null}
+[05Jan2025 21:46:45.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> q
+[05Jan2025 21:47:06.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ah
+[05Jan2025 21:47:09.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> eso?
+[05Jan2025 21:47:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> si
+[05Jan2025 21:47:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> xd
+[05Jan2025 21:47:23.770] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Ronsita_UxU: {disabled=false, disconnected=true, uuid=c7558948-ea69-3d8c-b711-6d3ac16e1a94, name=Ronsita_UxU, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:47:23.832] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Ronsita_UxU: {disabled=false, disconnected=true, uuid=c7558948-ea69-3d8c-b711-6d3ac16e1a94, name=Ronsita_UxU, group=9e11f0f1-b63b-4c35-bf6a-270d5173b0f6}
+[05Jan2025 21:47:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> almenos toco agua en mc
+[05Jan2025 21:49:32.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> ron
+[05Jan2025 21:49:34.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ronsita_UxU> ?
+[05Jan2025 21:49:35.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AbimaelRDx> mira una cama aqui
