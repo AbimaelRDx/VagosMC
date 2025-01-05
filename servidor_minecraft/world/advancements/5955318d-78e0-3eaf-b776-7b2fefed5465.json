@@ -342,6 +342,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-01-05 21:22:30 +0000",
       "bread": "2025-01-05 17:53:42 +0000",
       "cooked_chicken": "2025-01-05 20:40:04 +0000",
       "cooked_mutton": "2025-01-05 20:30:01 +0000",
@@ -1583,6 +1584,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-01-05 20:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-05 21:22:55 +0000"
     },
     "done": true
   },

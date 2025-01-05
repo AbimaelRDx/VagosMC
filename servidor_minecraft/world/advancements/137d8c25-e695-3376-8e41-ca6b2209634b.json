@@ -992,5 +992,17 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-05 21:23:10 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sandstone_smithing": {
+    "criteria": {
+      "has_sandstone": "2025-01-05 21:19:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
